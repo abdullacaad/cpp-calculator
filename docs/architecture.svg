@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" font-family="Segoe UI, Arial, sans-serif">
+<rect width="100%" height="100%" rx="16" fill="#0f172a"/>
+<text x="30" y="42" font-size="24" font-weight="700" fill="#f8fafc">cpp-calculator</text>
+<text x="30" y="68" font-size="14" fill="#94a3b8">C++ · g++ · Git &amp; GitHub practical · UET Taxila</text>
+<rect x="30" y="100" width="250" height="80" rx="12" fill="#00599c"/>
+<text x="155" y="132" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1 · SOURCE</text>
+<text x="155" y="156" font-size="12" fill="#e2e8f0" text-anchor="middle">main.cpp</text>
+<rect x="325" y="100" width="250" height="80" rx="12" fill="#7c3aed"/>
+<text x="450" y="132" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2 · COMPILE</text>
+<text x="450" y="156" font-size="12" fill="#e2e8f0" text-anchor="middle">g++ main.cpp -o calculator</text>
+<rect x="620" y="100" width="250" height="80" rx="12" fill="#059669"/>
+<text x="745" y="132" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3 · RUN</text>
+<text x="745" y="156" font-size="12" fill="#e2e8f0" text-anchor="middle">./calculator → banner</text>
+<text x="30" y="230" font-size="14" fill="#94a3b8">Git &amp; GitHub lab: clone → branch → commit → push. Calculator operations are added on top of this starter.</text>
+</svg>
